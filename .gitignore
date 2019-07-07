@@ -1,8 +1,11 @@
-# ignore sample.ipynb
+# ignore samples
 sample.ipynb
+sample1.ipynb
+sample_scrape.py
 
 # ignore ipynb_checkpoints
 .ipynb_checkpoints/
 
 # ignore foursquare_cred
 foursquare_cred.txt
+
