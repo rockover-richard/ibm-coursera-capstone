@@ -1,0 +1,8 @@
+# ignore sample.ipynb
+sample.ipynb
+
+# ignore ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ignore foursquare_cred
+foursquare_cred.txt
