@@ -1,8 +1,5 @@
 # ignore samples
-sample.ipynb
-sample1.ipynb
-sample2.ipynb
-sample_scrape.py
+samples/
 
 # ignore ipynb_checkpoints
 .ipynb_checkpoints/

@@ -1,0 +1,12 @@
+Borough,Name,Latitude,Longitude,Cluster Labels,Status
+Manhattan,Ikinari Steak 5th Ave,40.7568718,-73.98042535,1.0,Open
+Manhattan,Ikinari Steak Bleecker St,40.7293546170029,-74.0013773167066,0.0,Closed
+Manhattan,Ikinari Steak Broadway,40.76453660000001,-73.9833266,0.0,Rebrand
+Manhattan,Ikinari Steak Chelsea 7th Ave,40.74191605,-73.9976050243652,2.0,Rebrand
+Manhattan,Ikinari Steak Chelsea 8th Ave,40.7401797,-74.00197209999997,1.0,Closed
+Manhattan,Ikinari Steak East Village,40.7308064,-73.9897265,1.0,Open
+Manhattan,Ikinari Steak Lexington Ave,40.77071705,-73.961705564726,0.0,Closed
+Manhattan,Ikinari Steak Madison Ave,40.7517813,-73.97933661104541,2.0,Closed
+Manhattan,Ikinari Steak Park Ave,40.74489370000001,-73.98261740000002,3.0,Closed
+Manhattan,Ikinari Steak Times Square,40.7606384,-73.99039509999999,1.0,Open
+Manhattan,Ikinari Steak Upper West,40.7843033333333,-73.9797676666667,1.0,Closed
